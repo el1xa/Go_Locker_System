@@ -1,0 +1,1694 @@
+{
+    "stations": [
+        {
+            "stationCode": "NTU-ADB-01",
+            "stationName": "Admin Building level 1",
+            "rows": 4,
+            "columns": 10,
+            "status": "Open",
+            "slots": [
+                {
+                    "slotID": "NTU-ADB-01 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (3-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-ADB-01 (4-10)",
+                    "statusID": "Available"
+                }
+            ]
+        },
+        {
+            "stationCode": "NTU-N21-02",
+            "stationName": "North Main Spine level 1",
+            "rows": 3,
+            "columns": 15,
+            "status": "Open",
+            "slots": [
+                {
+                    "slotID": "NTU-N21-02 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (1-15)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (2-15)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N21-02 (3-15)",
+                    "statusID": "Available"
+                }
+            ]
+        },
+        {
+            "stationCode": "NTU-N22-03",
+            "stationName": "North Main Spine level 2",
+            "rows": 4,
+            "columns": 12,
+            "status": "Open",
+            "slots": [
+                {
+                    "slotID": "NTU-N22-03 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (1-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (2-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (3-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N22-03 (4-12)",
+                    "statusID": "Available"
+                }
+            ]
+        },
+        {
+            "stationCode": "NTU-N31-04",
+            "stationName": "The Arc level 1",
+            "rows": 3,
+            "columns": 10,
+            "status": "Open",
+            "slots": [
+                {
+                    "slotID": "NTU-N31-04 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N31-04 (3-10)",
+                    "statusID": "Available"
+                }
+            ]
+        },
+        {
+            "stationCode": "NTU-N32-05",
+            "stationName": "The Arc level 2",
+            "rows": 4,
+            "columns": 10,
+            "status": "Closed",
+            "slots": [
+                {
+                    "slotID": "NTU-N32-05 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (3-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-N32-05 (4-10)",
+                    "statusID": "Available"
+                }
+            ]
+        },
+        {
+            "stationCode": "NTU-S31-06",
+            "stationName": "The Hive level 1",
+            "rows": 3,
+            "columns": 15,
+            "status": "Open",
+            "slots": [
+                {
+                    "slotID": "NTU-S31-06 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (1-15)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (2-15)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S31-06 (3-15)",
+                    "statusID": "Available"
+                }
+            ]
+        },
+        {
+            "stationCode": "NTU-S32-06",
+            "stationName": "The Hive Level 2",
+            "rows": 4,
+            "columns": 15,
+            "status": "Open",
+            "slots": [
+                {
+                    "slotID": "NTU-S32-06 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (1-15)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (2-15)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (3-15)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-13)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-14)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-S32-06 (4-15)",
+                    "statusID": "Available"
+                }
+            ]
+        },
+        {
+            "stationCode": "NTU-SSC-07",
+            "stationName": "SSC level 2",
+            "rows": 4,
+            "columns": 12,
+            "status": "Open",
+            "slots": [
+                {
+                    "slotID": "NTU-SSC-07 (1-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (1-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (2-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (3-12)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-01)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-02)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-03)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-04)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-05)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-06)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-07)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-08)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-09)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-10)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-11)",
+                    "statusID": "Available"
+                },
+                {
+                    "slotID": "NTU-SSC-07 (4-12)",
+                    "statusID": "Available"
+                }
+            ]
+        }
+    ],
+    "lockers": [
+        {
+            "lockerID": "10001",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10002",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10003",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10004",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10005",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10006",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Suspended",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10007",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10008",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10009",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Suspended",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10010",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        },
+        {
+            "lockerID": "10011",
+            "previousLocation": null,
+            "location": "Central store",
+            "row": 0,
+            "columns": 0,
+            "status": "Available",
+            "rentalID": "",
+            "startDate": "",
+            "endDate": "",
+            "rentalIDCounter": null
+        }
+    ],
+    "students": [
+        {
+            "studentID": "10252746",
+            "studentName": "James Loong",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10251327",
+            "studentName": "Felix Lim Jun Yu",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10250055",
+            "studentName": "Johan Agarwal",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10256499",
+            "studentName": "See Sin Ho",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10253012",
+            "studentName": "Benjamin Wong",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10254027",
+            "studentName": "Kit Cong Chen",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10255884",
+            "studentName": "Ian Tan",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10251668",
+            "studentName": "Javier Huang",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10255540",
+            "studentName": "Wei De Joel Lam",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10252730",
+            "studentName": "Mudit Sarmiento",
+            "Account": "0.00"
+        },
+        {
+            "studentID": "10253442",
+            "studentName": "Yi Hong Goh",
+            "Account": "0.00"
+        }
+    ],
+    "usedRentalIDCounters":[],
+    "rentalFee": 2.00,
+    "movingFee": 0.20
+}
